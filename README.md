@@ -1,6 +1,7 @@
 Personal Expense Tracker
 
 A beginner-friendly, terminal-based expense tracker built using Python and SQLite.
+How to add the project BCA student building programming skills.
 
 Features
 
