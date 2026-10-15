@@ -1,44 +1,25 @@
-Personal Expense Tracker
+Python Expense Tracker
 
-A beginner-friendly, terminal-based expense tracker built using Python and SQLite.
-How to add the project BCA student building programming skills.
+A beginner-friendly Python project to record and manage daily expenses.
 
 Features
 
-- Add expenses with amount, category, date, and notes
-- View all saved expenses
-- Calculate total and category-wise spending
-- Generate monthly expense reports
-- Delete expenses with confirmation
-- Validate user input
+- Add and record expenses
+- Track spending by amount and category
+- View recorded expenses
+- Practice Python programming fundamentals
 
-Technologies Used
+Technology Used
 
 - Python
-- SQLite
-- SQL
 
 How to Run
 
-1. Install Python 3 on your computer.
+1. Install Python or use Pydroid 3 on Android.
 2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run:
+3. Open the Python file.
+4. Run the program and follow the menu instructions.
 
-python expense_tracker.py
+Learning Objectives
 
-What I Learned
-
-- Python functions and loops
-- Input validation and exception handling
-- SQL queries and database operations
-- SQLite database storage
-- Generating reports using SQL aggregation
-
-Future Improvements
-
-- Add a graphical user interface
-- Export reports to CSV
-- Add charts for expense analysis
-
-Created as a learning project during my BCA journey.
+This project helps practise Python basics, input/output, conditional statements, loops, and expense management logic.
